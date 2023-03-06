@@ -14,15 +14,15 @@
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
-            "value": ""
+            "value": "5914682116:AAHMiVTBI9t28IsCw2va25uQpS4fw1X6BNY"
         },
         "API_HASH": {
             "description": "Your API Hash from my.telegram.org",
-            "value": ""
+            "value": "be4eb814a7bf7b61d6ec7e6466e74af7"
         },
         "APP_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "22667581"
         }
     },
     "addons": [],
